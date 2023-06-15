@@ -1,2 +1,2 @@
 # programacao-web
-Todos os projetos voltados para programação web.
+Projeto de site para uma universidade fictícia usando a linguagem HTML, apenas.
